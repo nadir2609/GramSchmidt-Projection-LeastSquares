@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Math4AI – Linear Algebra Assignment 5
 
