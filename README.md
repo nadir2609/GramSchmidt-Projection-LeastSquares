@@ -1,4 +1,4 @@
-```markdown
+
 # Math4AI – Linear Algebra Assignment 5
 
 This project implements three key linear algebra algorithms fundamental to AI and machine learning:
