@@ -31,8 +31,8 @@ requirements.txt          # Required Python packages
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Math4AI-Linear-Algebra-Assignment5.git
-cd Math4AI-Linear-Algebra-Assignment5
+git clone https://github.com/nadir2609/GramSchmidt-Projection-LeastSquares.git
+cd GramSchmidt-Projection-LeastSquares
 ````
 
 ### 2. Create a Virtual Environment
@@ -99,14 +99,7 @@ numpy==1.26.4
 matplotlib==3.9.2
 ```
 
----
 
-## 🏁 Author
 
-**Your Name**
-Math4AI – Linear Algebra Assignment 5
-October 2025
-
-```
 
 
